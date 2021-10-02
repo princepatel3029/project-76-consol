@@ -1,0 +1,15 @@
+console.log ("my first consol project"); 
+var firstname ="prince";
+var lastname ="patel";
+var fullname = firstname.concat(lastname);
+console.log(fullname);
+var ten = 10;
+var five = 5;
+var bob = ten + five;
+console.log (bob);
+var billy = ten - five;
+console.log (billy);
+var jeff = ten * five;
+console.log (jeff);
+var cheese = ten / five;
+console.log (cheese);
